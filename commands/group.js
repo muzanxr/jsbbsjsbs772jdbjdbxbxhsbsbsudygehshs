@@ -813,7 +813,7 @@ cmd({
     )
     //---------------------------------------------------------------------------
 cmd({
-        pattern: "تنزيل",
+        pattern: "تخفيض",
         desc: "Demotes replied/quoted user from group",
         category: "group",
         filename: __filename,
