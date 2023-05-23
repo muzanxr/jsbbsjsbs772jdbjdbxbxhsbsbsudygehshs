@@ -23,7 +23,7 @@ Secktor.cmd({
             alias: ["menu", "اوامر", "الاوامر"],
             desc: "Help list",
             category: "general",
-            react: "🐥",
+            react: "🍷",
             filename: __filename
         },
         async(Void, citel, text) => {
