@@ -66,7 +66,7 @@ cmd({
     )
     //---------------------------------------------------------------------------
 cmd({
-            pattern: "video",
+            pattern: "تنزيل",
             desc: "Downloads video from yt.",
             category: "downloader",
             filename: __filename,
